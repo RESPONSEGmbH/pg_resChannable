@@ -1,0 +1,7 @@
+{
+    "name": "response/reschannable",
+    "description": "Artikelexport für Channable",
+    "type": "oxideshop-module",
+    "homepage": "https://www.response-gmbh.de",
+    "version": "1.0.0"
+}
